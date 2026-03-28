@@ -14,4 +14,4 @@ Previously CTO at [Segmed](https://segmed.ai) (YC W20). Before that: systems and
 - 🦀 RISC-V emulator in Rust that boots Linux
 - 🔧 Systems: embedded C, Rust, Go
 
-🌐 [koszek.com](https://www.koszek.com) · 𝕏 [@wkoszek](https://x.com/wkoszek)
+🌐 [koszek.com](https://www.koszek.com) — full background, writing, and projects · 𝕏 [@wkoszek](https://x.com/wkoszek)
